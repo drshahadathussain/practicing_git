@@ -16,6 +16,10 @@
 *.bcf
 *.run.xml
 
+# Ignore shell files
+
+*.sh
+
 # Ignore the final PDF (you can always recompile it)
 
 *.pdf
