@@ -23,8 +23,8 @@ a block
 of code
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Here is how you make [a link](https://github.com/drshahadathussain).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![This is an image.](https://1drv.ms/i/c/487670c206c62db4/EXsf1jMESGtOvA3mh-DoC_YBROxTJttzQzvNSJWrgfU3Vg?e=7Tf56g)
 
 
