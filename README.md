@@ -23,6 +23,6 @@ I eat the following all the time:
 
 ### Contact
 
-The best way to get in touch with me is [on Twitter](https:x.com/enggshahadat)
+The best way to get in touch with me is [on Twitter](https://x.com/enggshahadat)
 
 
