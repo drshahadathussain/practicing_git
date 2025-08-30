@@ -1,30 +1,28 @@
-# This is a large heading
 
-## This is a smaller heading
+# Shahadat Hussain
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Geography
 
-- This is
-- an unordered
-- list
+I live in the city of Abu Dhabi, in the emirate of Abu Dhabi, in the United Arab Emirates.
 
-1. This is
-2. an ordered
-3. list
+### Reading
 
-Here is `some code` in the middle of a sentence.
+Three of my favorite books are:
 
-```
-This is
-a block
-of code
-```
+- *Pro-Git* by Scott Chacon (Second Edition)
+- *Think Python* by Allen B. Downey (Third Edition)
+- *The Linux Command Line* by William Schotts (Second Edition)
 
-Here is how you make [a link](https://github.com/drshahadathussain).
+### Food
 
-![This is an image.](https://1drv.ms/i/c/487670c206c62db4/EXsf1jMESGtOvA3mh-DoC_YBROxTJttzQzvNSJWrgfU3Vg?e=7Tf56g)
+I eat the following all the time:
+
+1. Masala Dosa 
+2. Karak Tea
+3. Puttu Set
+
+### Contact
+
+The best way to get in touch with me is [on Twitter](https:x.com/enggshahadat)
 
 
