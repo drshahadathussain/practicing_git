@@ -20,7 +20,7 @@ The following are the technical skills I use in my job on daily basis:
 1. Data analysis using MATLAB
 2. 3D modeling using FreeCAD
 3. macOS/Linux command line
-4. Writing technical reports overleaf/LaTeX
+4. Technical reports writing using overleaf/LaTeX
 5. Scientific computing using python and its libraries
 6. Mechanical testing
 7. Additive manufacturing of metal alloys, and composites
